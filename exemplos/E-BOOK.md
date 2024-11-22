@@ -1,4 +1,4 @@
-# Inteligência Artificial Generativa:O Futuro da Criação Automatizada 🌌
+# Inteligência Artificial Generativa: O Futuro da Criação Automatizada 🌌
 
 ## 📒 Descrição
 Este e-book explora como as IAs generativas revolucionando e impactando a criação automatizada, gerando textos, imagens e músicas de maneira eficiente e personalizada. Aplicadas em setores como marketing, arte e design, oferecem rapidez e inovação, no entanto levantam desafios éticos sobre autenticidade, direitos autorais e desinformação. O futuro promete grandes avanços que transformarão indústrias como saúde e educação.
