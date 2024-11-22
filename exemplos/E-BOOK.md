@@ -1,20 +1,19 @@
-# A Jornada da IA: Um Passeio pelo Futuro 🌌
+# Inteligência Artificial Generativa:O Futuro da Criação Automatizada 🌌
 
 ## 📒 Descrição
-Este e-book de 5 páginas explora o impacto revolucionário das IAs Generativas no nosso dia a dia e como elas moldarão o futuro.
+Este e-book explora como as IAs generativas revolucionando e impactando a criação automatizada, gerando textos, imagens e músicas de maneira eficiente e personalizada. Aplicadas em setores como marketing, arte e design, oferecem rapidez e inovação, no entanto levantam desafios éticos sobre autenticidade, direitos autorais e desinformação. O futuro promete grandes avanços que transformarão indústrias como saúde e educação.
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
-- IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual do e-book;
-- Ferramenta **Libre Office** para edição.
+- Ferramenta **Microsoft Word** para edição.
 
 ## 🧐 Processo de Criação
-Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Libre Office, por ser uma ferramenta open-source para edição de texto.
+Utilizei o "ChatGPT" nas minha pesquisas sobre IAs Generativas, estruturar o conteúdo e organizar o conteúdo e gerar algumas imagens para usar de fundo no documento. Para a montagem do documento foi utilizado o Microsoft Word.
 
 ## 🚀 Resultados
-O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
+O e-book apresenta um conteúdo informativo sobre IAs generativas, abordando avanços, aplicações, desafios e impactos futuros.
 
 [LINK PARA O E-BOOK AQUI]()
 
 ## 💭 Reflexão
-Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
+Ao criar este e-book podemos refletir como IAs generativas transformando a criação e a inovação, ao mesmo tempo em que exigem uma responsabilidade ética para equilibrar progresso e impacto social.
